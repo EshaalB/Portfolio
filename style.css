@@ -1,0 +1,176 @@
+ body{
+   background-color: #FFC4C4;
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+ }
+ .moon {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 39px;
+    left: 335px;
+ }
+ .moon:hover{
+  height: 110px;
+  width: 110px;
+  transition: ease-in-out,0.5s;
+ }
+ #text {
+   display: block;
+   padding: 40px;
+ }
+  h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+  }
+  .intro {
+    font-size: 30px;
+    margin: -30px;
+    padding-bottom: 30px;
+    top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .tower {
+    margin-top: -35px;
+    height: 450px;
+    width: 450px;
+  }
+  span {
+    text-decoration: underline;
+    color:palevioletred;
+  }
+  /* .mid {
+    background-color: #EE6983;
+  } */
+  .pfp{
+    height: 220px;
+    width: 220px;
+    padding-top: 50px;
+  }
+  h2 {
+    font-size: 50px;
+    font-family: 'Patua One', cursive;
+    color: #EE6983;
+
+
+  }
+  .about {
+    margin: auto;
+    font-size: 20px;
+    width: 30%;
+    line-height: 2;
+    font-family: 'Poppins', sans-serif;
+  }
+  hr {
+    border: dotted #e7a2b3 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+  .skills { 
+    display: block;
+     background-color: #FFF5E4;
+  }
+  h3 {
+    font-size: 20px;
+    color: #EE6983;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  .webdev {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+  }
+  .web {
+    /* padding: 47px;
+    height: 200px;
+    width: 200px;
+    margin-right: 20px; */
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+  }
+  .gfx {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+  }
+  .gd {
+    width: 25%;
+    float: left;
+    margin-top: -28px;
+    margin-right: 30px;
+  }
+  .gaming {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+  .games {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+   .contact {
+
+     background-color: #FFF5E4;
+     
+  }
+  .con {
+    color: #EE6983;
+    font-family: 'Poppins', sans-serif;
+  }
+  #con {
+    color: #f1486a;
+    font-family: 'Open Sans', sans-serif;
+    width: 40%;
+    margin: 40px auto 60px;
+
+  }
+  .btn {
+    margin-bottom: 20px;
+    background: #db74a6;
+    background-image: -webkit-linear-gradient(top, #db74a6, #f29fbf);
+    background-image: -moz-linear-gradient(top, #db74a6, #f29fbf);
+    background-image: -ms-linear-gradient(top, #db74a6, #f29fbf);
+    background-image: -o-linear-gradient(top, #db74a6, #f29fbf);
+    background-image: linear-gradient(to bottom, #db74a6, #f29fbf);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffabc6;
+    transition: ease-in-out,0.3s;
+    text-decoration: none;
+  }
+  .bottom {
+    padding: 10px;
+    margin: 10px;
+  }
+  .fa {
+    color: #ffeaea;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+   
+ 
